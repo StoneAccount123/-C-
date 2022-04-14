@@ -1,0 +1,17 @@
+D:\C#作业\第六次作业\f2\f2\bin\Debug\net6.0-windows\f2.exe
+D:\C#作业\第六次作业\f2\f2\bin\Debug\net6.0-windows\f2.deps.json
+D:\C#作业\第六次作业\f2\f2\bin\Debug\net6.0-windows\f2.runtimeconfig.json
+D:\C#作业\第六次作业\f2\f2\bin\Debug\net6.0-windows\f2.dll
+D:\C#作业\第六次作业\f2\f2\bin\Debug\net6.0-windows\ref\f2.dll
+D:\C#作业\第六次作业\f2\f2\bin\Debug\net6.0-windows\f2.pdb
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.csproj.AssemblyReference.cache
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.Form1.resources
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.csproj.GenerateResource.cache
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.AssemblyInfoInputs.cache
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.AssemblyInfo.cs
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.csproj.CoreCompileInputs.cache
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.dll
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\ref\f2.dll
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.pdb
+D:\C#作业\第六次作业\f2\f2\obj\Debug\net6.0-windows\f2.genruntimeconfig.cache

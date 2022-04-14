@@ -1,0 +1,12 @@
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\bin\Debug\OrderServiceWinformApp.exe.config
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\bin\Debug\OrderServiceWinformApp.exe
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\bin\Debug\OrderServiceWinformApp.pdb
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.csproj.AssemblyReference.cache
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.Form1.resources
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.Form2.resources
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.Properties.Resources.resources
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.csproj.GenerateResource.cache
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.csproj.CoreCompileInputs.cache
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.exe
+D:\Desktop\csharpwork-master\Assignment6\orderServiceWinformApp\obj\Debug\OrderServiceWinformApp.pdb
